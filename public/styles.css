@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+
+.box {
+    background-color: rgb(16, 29, 66);
+    color: white;
+    border-bottom: 3px solid red;
+    width: 100%;
+    margin-bottom: 10px;
+}
