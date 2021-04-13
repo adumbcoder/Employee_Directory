@@ -3,7 +3,7 @@ import API from "../utils/API.js";
 import Container from "../components/Container/Container";
 import SearchForm from "../components/SearchForm/SearchForm";
 import Table from "../components/Table/Table";
-
+import '../styles.css'
 class Search extends Component {
   state = {
     search: "",
