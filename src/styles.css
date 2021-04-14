@@ -1,14 +1,13 @@
-h1 {
+h1, p {
     text-align: center;
 }
-h2 {
-    text-align: center;
-}
+
 
 .box {
     background-color: rgb(16, 29, 66);
     color: white;
     border-bottom: 3px solid red;
-    width: 100%;
+    width: 100% !important;
     margin-bottom: 10px;
 }
+

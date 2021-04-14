@@ -5,6 +5,11 @@ tr {
 table {
     margin-left: auto;
     margin-right: auto;
+    width: 80% !important;
+}
+
+tbody {
+    width: 100%;
 }
 
 .sortMeh {

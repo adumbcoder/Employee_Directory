@@ -62,7 +62,7 @@ class Search extends Component {
         <Container style={{ minHeight: "80%" }}>
           <div className='box'>
             <h1>Employee Directory</h1>
-            <h2>Click on the arrow to sort the columns.</h2>
+            <p>Click on the arrow to sort the columns.</p>
           </div>
           <SearchForm
             handleFormSubmit={this.handleFormSubmit}
