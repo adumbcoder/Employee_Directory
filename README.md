@@ -17,6 +17,10 @@
   ## Description:
   Takes coworkers and puts them in a database. You can search and filter thru your directory.
 
+<img src="https://github.com/adumbcoder/Employee_Directory/blob/main/Screenshots/screenshot1.jpg?raw=true" alt="alt text" width="1000" height="460">
+<img src="https://github.com/adumbcoder/Employee_Directory/blob/main/Screenshots/screenshot2.jpg?raw=true" alt="alt text" width="1000" height="460">
+<img src="https://github.com/adumbcoder/Employee_Directory/blob/main/Screenshots/screenshot3.jpg?raw=true" alt="alt text" width="1000" height="460">
+
   ### Installation:
   You can download this repo at https://github.com/adumbcoder/Employee_Directory.
 
